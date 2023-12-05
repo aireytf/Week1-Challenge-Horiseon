@@ -6,7 +6,16 @@ This repository serves to showcase my work in completing the Module 1 Challenge 
 
 The challenge was an on-the-job ticket to refactor an existing site for a marketing agency. The focus being on improving the accessibility of the existing site. 
 
+This project required that I refactor the website to meet accessibility standards whilst maintaining the applications' apprearance, as per the starter code and as shown in the followning Demo screenshot: 
+
 ![Demo](/starter/assets/images/01-html-css-git-challenge-demo.png)
+
+I achieved the above by completing the following tasks:
+- I implemented semantic structure to the HTML elements;
+- I ensured the HTML elements follow a logical structure independent of styling and positioning;
+-I added alt attributes, where they were missing for image elements;
+- I gave sequential order to the heading attributes; and
+- I gave the title element a concise, descriptive title. 
 
 ## Table of Contents 
 
