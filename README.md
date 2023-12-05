@@ -14,7 +14,7 @@ The challenge was an on-the-job ticket to refactor an existing site for a market
 
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at ...
+To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at https://aireytf.github.io/Week1-Challenge-Horiseon/ 
 
 Explore the different sections of the website and click on the navigation links in the header, to test the accessibility of the website. 
 
@@ -24,7 +24,7 @@ To review my changes to the starter code, on the deployed site referenced above,
 
 I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. 
 
-I had difficulty deploying this application, as only this README from my repository was being shown on the live site. I researched the issue on stackoverflow.com and found a solution there that worked, which was to use the deployment option of GitHub actions in pages and using Jekyll to change the source for the site from ./ to ./starter/ , to redirect inside the subfolder 'Starter' that I initally pushed to GitHub with the starter code for this challenge. This meant that the index.html inside the 'Starter' folder was being deployed to the site, as needed. 
+I had difficulty deploying this application, as only this README from my repository was being shown on the live site. I researched the issue on stackoverflow.com and found a solution there that worked, which was to use the deployment option of GitHub Actions in Pages and using Jekyll to change the source for the site from [./] to [./starter/] , to redirect inside the subfolder 'Starter' that I initally pushed to GitHub with the starter code for this challenge. This meant that the index.html inside the 'Starter' folder was being deployed to the site, as needed. 
 
 ## License
 
