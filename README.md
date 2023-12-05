@@ -8,29 +8,24 @@ The challenge was an on-the-job ticket to refactor an existing site for a market
 
 ## Table of Contents 
 
-- Installation
 - Usage
 - Credits
 - License
 
-## Installation
-
-To run this application locally, you'll need GitHub and a command line installed on your computer. From your command line, take the following steps:
-
-[...]
-
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at [...]
+To view my work on this challenge, you can review the sections of this repository and my refactored version of the site which is deployed at ...
 
 Explore the different sections of the website and click on the navigation links in the header, to test the accessibility of the website. 
 
-To review by changes to the starter code, on the deployed site referenced above, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see the refactored code.
+To review my changes to the starter code, on the deployed site referenced above, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see the refactored code.
 
 ## Credits
 
-N/A
+I utilised the resources at w3schools.com in the README provided for this challenge, to apply appropriate semantic and logical structure, and to follow accessibility standards for this site. 
+
+I had difficulty deploying this application, as only this README from my repository was being shown on the live site. I researched the issue on stackoverflow.com and found a solution there that worked, which was to use the deployment option of GitHub actions in pages and using Jekyll to change the source for the site from ./ to ./starter/ , to redirect inside the subfolder 'Starter' that I initally pushed to GitHub with the starter code for this challenge. This meant that the index.html inside the 'Starter' folder was being deployed to the site, as needed. 
 
 ## License
 
-Please refer to the LICENSE in the repo. 
+As per the contents of this repository, this project is under an MIT licence. As I initially created this repository without a licence, I took the opportunity to figure out how to add a licence after creating a respository. This was as simple as adding a new file to the repository and selecting a licence template, having givent the new file the name of LICENCE. 
