@@ -6,7 +6,7 @@ This repository serves to showcase my work in completing the Module 1 Challenge 
 
 The challenge was an on-the-job ticket to refactor an existing site for a marketing agency. The focus being on improving the accessibility of the existing site. 
 
-This project required that I refactor the website to meet accessibility standards whilst maintaining the applications' apprearance, as per the starter code and as shown in the followning Demo screenshot: 
+This project required that I refactor the website to meet accessibility standards whilst maintaining the application's appearance, as per the starter code and as shown in the following Demo screenshot: 
 
 ![Demo](/starter/assets/images/01-html-css-git-challenge-demo.png)
 
@@ -14,8 +14,9 @@ I achieved the above by completing the following tasks:
 - I implemented semantic structure to the HTML elements;
 - I ensured the HTML elements follow a logical structure independent of styling and positioning;
 -I added alt attributes, where they were missing for image elements;
-- I gave sequential order to the heading attributes; and
-- I gave the title element a concise, descriptive title. 
+- I gave sequential order to the heading attributes;
+- I gave the title element a concise, descriptive title; and
+- I ensured all the application's links function correctly, by fixing the link to the Search Engine Optimization content on the site. 
 
 ## Table of Contents 
 
@@ -39,4 +40,4 @@ I had difficulty deploying this application, as only this README from my reposit
 
 ## License
 
-As per the contents of this repository, this project is under an MIT license. As I initially created this repository without a license, I took the opportunity to figure out how to add one after a respository has already been created. This was as simple as adding a new file to the repository and selecting a license template, having givent the new file the name of LICENSE. 
+As per the contents of this repository, this project is under an MIT license. As I initially created this repository without a license, I took the opportunity to figure out how to add one after a respository has already been created. This was as simple as adding a new file to the repository and selecting a license template (having given the new file the name LICENSE). 
