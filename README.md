@@ -13,7 +13,7 @@ This project required that I refactor the website to meet accessibility standard
 I achieved the above by completing the following tasks:
 - I implemented semantic structure to the HTML elements;
 - I ensured the HTML elements follow a logical structure independent of styling and positioning;
--I added alt attributes, where they were missing for image elements;
+- I added alt attributes, where they were missing in image elements;
 - I gave sequential order to the heading attributes;
 - I gave the title element a concise, descriptive title; and
 - I ensured all the application's links function correctly, by fixing the link to the Search Engine Optimization content on the site. 
