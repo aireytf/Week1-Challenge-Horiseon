@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/*amending the following three selectors by switching div to nav, to reflect changes to HTML structure*/ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -73,12 +74,13 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    float: left  /*added to display content on the left, alongside benefits*/
 }
 
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
+    clear: none; /*switched clear property from both to none, to correctly control the flow of floated elements*/ 
     float: right;
     width: 20%;
     height: 100%;
