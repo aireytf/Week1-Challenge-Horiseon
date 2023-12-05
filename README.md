@@ -6,7 +6,7 @@ This repository serves to showcase my work in completing the Module 1 Challenge 
 
 The challenge was an on-the-job ticket to refactor an existing site for a marketing agency. The focus being on improving the accessibility of the existing site. 
 
-![alt text] (starter/assets/images/01-html-css-git-challenge-demo
+![alt text] (starter/assets/images/01-html-css-git-challenge-demo.png
 
 ## Table of Contents 
 
