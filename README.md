@@ -6,6 +6,8 @@ This repository serves to showcase my work in completing the Module 1 Challenge 
 
 The challenge was an on-the-job ticket to refactor an existing site for a marketing agency. The focus being on improving the accessibility of the existing site. 
 
+![alt text] (starter/assets/images/01-html-css-git-challenge-demo
+
 ## Table of Contents 
 
 - Usage
@@ -28,4 +30,4 @@ I had difficulty deploying this application, as only this README from my reposit
 
 ## License
 
-As per the contents of this repository, this project is under an MIT licence. As I initially created this repository without a licence, I took the opportunity to figure out how to add a licence after creating a respository. This was as simple as adding a new file to the repository and selecting a licence template, having givent the new file the name of LICENCE. 
+As per the contents of this repository, this project is under an MIT license. As I initially created this repository without a license, I took the opportunity to figure out how to add one after a respository has already been created. This was as simple as adding a new file to the repository and selecting a license template, having givent the new file the name of LICENSE. 
